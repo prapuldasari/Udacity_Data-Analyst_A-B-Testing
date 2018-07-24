@@ -2,3 +2,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 /Analyze_ab_test_results_notebook.html linguist-vendored
+/Analyze_ab_test_results_notebook.ipynb linguist-vendored
